@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://pepperheads.com/</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Growing Guides -->
+  <url>
+    <loc>https://pepperheads.com/guides/starting-seeds-indoors.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/maximizing-heat-levels.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/natural-pest-management.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/seasonal-growing-calendar.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/watering-fertilizing.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/pepper-varieties-guide.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Recipe Guides -->
+  <url>
+    <loc>https://pepperheads.com/guides/fermented-jalapeno-sauce.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/habanero-mango-sauce.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/guides/fermented-ghost-pepper-sauce.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Equipment Guides -->
+  <url>
+    <loc>https://pepperheads.com/guides/hot-sauce-starter-kit.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Shop Pages (for future development) -->
+  <url>
+    <loc>https://pepperheads.com/shop/pepper-seeds.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/shop/hot-sauces.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pepperheads.com/shop/books-guides.html</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
