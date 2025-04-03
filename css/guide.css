@@ -55,7 +55,7 @@
     margin-bottom: 15px;
     padding-bottom: 10px;
     border-bottom: 1px solid var(--border-color);
-    color: var(--primary);
+    color: var(--primary-color);
 }
 
 .sidebar-widget ul {
@@ -77,7 +77,7 @@
 }
 
 .sidebar-widget ul li a:hover {
-    color: var(--primary);
+    color: var(--primary-color);
 }
 
 .sidebar-widget.cta {
@@ -140,7 +140,7 @@
 /* Tips and Callouts */
 .guide-tip {
     background-color: var(--primary-light);
-    border-left: 4px solid var(--primary);
+    border-left: 4px solid var(--primary-color);
     padding: 20px;
     border-radius: 0 8px 8px 0;
     margin: 30px 0;
