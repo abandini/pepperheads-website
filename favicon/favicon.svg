@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pepper Body -->
+  <path d="M256 90C256 90 230 140 230 180C230 220 240 240 240 280C240 320 220 380 190 420C160 460 120 480 120 480C120 480 180 460 220 420C260 380 280 320 280 280C280 240 270 220 270 180C270 140 256 90 256 90Z" fill="#e64a19" stroke="#b71c1c" stroke-width="8"/>
+  
+  <!-- Pepper Shine -->
+  <path d="M256 90C256 90 240 140 240 180C240 220 250 240 250 280C250 320 240 360 220 400" stroke="#ff7043" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Pepper Stem -->
+  <path d="M256 90C256 90 260 70 270 60C280 50 300 40 300 40" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M256 90C256 90 252 70 242 60C232 50 212 40 212 40" stroke="#4caf50" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Flame Effect -->
+  <circle cx="256" cy="350" r="20" fill="#ffeb3b" opacity="0.6">
+    <animate attributeName="r" values="15;25;15" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="256" cy="350" r="10" fill="#ff9800" opacity="0.8">
+    <animate attributeName="r" values="8;15;8" dur="1.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.9;0.5;0.9" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+</svg>
